@@ -7,6 +7,9 @@ import java.util.List;
 import java.util.regex.Pattern;
 import java.util.stream.Stream;
 
+/**
+ * <a href="https://adventofcode.com/2023/day/1">https://adventofcode.com/2023/day/1</a>
+ */
 class Day01 {
 
   private static final Pattern SEPARATE_INTO_CHARACTERS = Pattern.compile(".*?");
